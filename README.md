@@ -64,8 +64,9 @@ Login: hunter<br>
 Password: hunter<br>
 Find your Agent ID and Post in Telegram Group https://t.me/found_wallets so it can be assigned to you.<hr>
 
-
-- [**Fake Wallets**](https://github.com/phrutis/LostWallets/tree/main/fake-wallets)</br>
+- [**FAQ**](https://github.com/phrutis/LostWallets/edit/main/README.md#frequently-asked-questions)
+- [**Fake wallets**](https://github.com/phrutis/LostWallets/tree/main/fake-wallets)</br>
+- [**Founds wallets**](https://github.com/phrutis/LostWallets/tree/main/Found_wallets)
 
 ### Partner addresses 25%
 1️⃣ - 1NEFQpE4qETrAtzzRD8vLGs8FRZmUsV6FF</br>
@@ -502,8 +503,9 @@ In a later version, the user could add a new address and receive coins on it.</b
 The old version of wallet.dat does not have this address.</br>
 Or vice versa.<hr>
 
+**HiveOS Error during speed benchmark, return code: 137**</br>
 
-**Sell me all your wallets**</br>
+Must either increase RAM or do a SwapFile</br>
+```sudo fallocate -l 12G /swapfile && sudo chmod 600 /swapfile && sudo mkswap /swapfile && sudo swapon /swapfile && sudo cp /etc/fstab /etc/fstab.back && echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab```
+<hr>
 
-I don't sell or buy wallet.dat</br>
-And I do not advise you to buy.<hr>
