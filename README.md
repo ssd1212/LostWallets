@@ -1,4 +1,4 @@
-# Challenge LostWallets 
+# LostWallets - BrutePool.com 
 ![wallet.dat](https://user-images.githubusercontent.com/82582647/172037651-a03c947c-e51e-4259-80c1-42588bf6d9b7.png)</br>
 **Find password get 50% balance**</br>
 
@@ -19,18 +19,19 @@ Use your password search prefixes by mask or [dictionaries](https://www.weakpass
 If you manage to find the password, write to me in telegram ```phrutis```</br>
 Do not write me questions, look for answers on the [forum](https://hashcat.net/forum/)</br>
 
+## Search in the pool
+
+
 - [**Fake Wallets**](https://github.com/phrutis/LostWallets/tree/main/fake-wallets)</br>
 
-
-
-
-
 ### Partner addresses 25%
-:one: - 1NEFQpE4qETrAtzzRD8vLGs8FRZmUsV6FF</br>
-:two: - bc1qphhedzu5jg7emtw09akwzzdh03mqaytett9zlz</br>
-:three: - 1NoName1LLKRfLmoh9jawLWrf6t185bC7v</br>
-:four: - bc1q5k000jhfklq8k82lpf8fz9cwffj4murvt7kxpm</br>
-:five: - bc1qgdgr02whvzkzqcqhpstqepq8sjcc4ljgyfnka9
+1️⃣ - 1NEFQpE4qETrAtzzRD8vLGs8FRZmUsV6FF</br>
+2️⃣ - bc1qphhedzu5jg7emtw09akwzzdh03mqaytett9zlz</br>
+3️⃣ - 1NoName1LLKRfLmoh9jawLWrf6t185bC7v</br>
+4️⃣ - bc1q5k000jhfklq8k82lpf8fz9cwffj4murvt7kxpm</br>
+5️⃣ - bc1qgdgr02whvzkzqcqhpstqepq8sjcc4ljgyfnka9</br>
+6️⃣ -</br>
+7️⃣ -</br>
 
 |   |  Wallet name    | Address   | Your reward  |  | Partner | Update |
 |:--|:----------------|:----------|:-------------|:-|:--------|:-------|
@@ -413,7 +414,7 @@ This can only be done if the correct password is entered.<hr>
 
 **How do you have so many wallets?**</br>
 
-Jacks were presented to me by various hunters for 25% of the amount of the find.</br>
+Wallets were presented to me by various hunters for 25% of the amount of the find.</br>
 Hunters received wallet.dat by exchanging with other hunters.<hr>
 
 **Any passwords hints?**</br>
@@ -434,7 +435,7 @@ Partner address 25% (btc address from table)</br>
 My address is 25% bc1qh2mvnf5fujg93mwl8pe688yucaw9sflmwsukz9</br>
 
 A password will be required to confirm the transfer.</br>
-I give you the id of a teamviewer (Windows remote desktop) running bitcoin core.</br>
+I give you the id of a AnyDesk running Bitcoin core.</br>
 You connect, you see the active bitcoin core what and where it is sent. </br>
 Check your address, enter your password and click send transfer.</br>
 So there will be a guarantee and security for all participants.</br>
