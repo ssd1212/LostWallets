@@ -2,7 +2,10 @@
 ![wallet.dat](https://user-images.githubusercontent.com/82582647/172037651-a03c947c-e51e-4259-80c1-42588bf6d9b7.png)</br>
 **Find password get 50% balance**</br>
 
-## How to search for a password
+Telegram group:
+**https://t.me/found_wallets**
+
+## How to find the password yourself
 Download the latest version of hashcat [**here**](https://github.com/hashcat/hashcat/releases)</br>
 An example of using masks in hashcat is [**here**](https://cheatsheet.haax.fr/passcracking-hashfiles/hashcat_cheatsheet/)</br>
 The hashes of the passwords from all wallets is in the file [**hashes.txt**](https://github.com/phrutis/LostWallets/blob/main/hashes.txt) Update **05.06.2024**</br>
@@ -13,13 +16,53 @@ Examples:</br>
 Run: ```hashcat.exe -m 11300 -a 3 hashes.txt ?a?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```</br>
 Run: ```hashcat.exe -m 11300 -a 7 --increment hashes.txt -1 ?l?d ?l?l?l?l?1?1?1?1 prefix.txt -D 2 -w 3 -o FOUND.txt```</br>
 Run: ```hashcat.exe -m 11300 -a 1 hashes.txt WORDLIST.txt WORDLIST2.txt -D 2 -w 3 -S -o FOUND.txt```</br>
-Run: ```hashcat.exe -m 11300 -a 3 --increment --increment-min=6 --increment-max=12 hashes.txt ?a?a?a?a?a?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```</br>
+Run: ```hashcat.exe -m 11300 -a 3 --increment --increment-min=4 --increment-max=8 hashes.txt ?a?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```</br>
 Use your password search prefixes by mask or [dictionaries](https://www.weakpass.com/wordlist)</br>
 
-If you manage to find the password, write to me in telegram ```phrutis```</br>
-Do not write me questions, look for answers on the [forum](https://hashcat.net/forum/)</br>
+If you manage to find the password, write to me in telegram ```phrutis```<br>
 
 ## Search in the pool
+### Windows
+
+Download http://www.brutepool.com/agents.php?download=1<br>
+Create Folder POOL on Desktop<br>
+Drag zip downloaded above into it<br>
+Do not unzip<br>
+Open CMD prompt in Folder<br>
+```py hashtopolis.zip --url http://www.brutepool.com/api/server.php --voucher brutepool```<hr>
+
+### Vast.ai
+
+nvidia/cuda:12.0.0-devel-ubuntu20.04 with Jupyter<br>
+Run a jupyter-python notebook<br>
+Use Jupyter Lab interface<br>
+After Startup, Click on OPEN<br>
+Click on terminal<br>
+``mkdir POOL``<br>
+```cd POOL```<br>
+```wget http://www.brutepool.com/agents.php?download=1 -O hashtopolis.zip```<br>
+```pip install psutil```<br>
+```pip install requests```<br>
+```python3 hashtopolis.zip --url http://www.brutepool.com/api/server.php --voucher brutepool```<hr>
+
+### Ubuntu (Linux)
+
+Desktop Version<br>
+```mkdir POOL```<br>
+```cd POOL```<br>
+```wget http://www.brutepool.com/agents.php?download=1 -O hashtopolis.zip```<br>
+```pip install psutil```<br>
+```pip install requests```<br>
+```python3 hashtopolis.zip --url http://www.brutepool.com/api/server.php --voucher brutepool```<hr>
+
+### Hiveos
+```sudo apt update && sudo apt-get update && sudo apt install git && sudo apt-get install python3-pip -y && sudo -H python3 -m pip install psutil && sudo -H pip3 install requests && sudo mkdir CAT && cd CAT && wget http://www.brutepool.com/agents.php?download=1 && python3 agents.php?download=1 && http://www.brutepool.com/api/server.php && brutepool```<hr>
+
+After Connecting to Server using one of the below steps<br>
+Visit http://brutepool.com<br>
+Login: hunter<br>
+Password: hunter<br>
+Find your Agent ID and Post in Telegram Group so it can be assigned to you.<hr>
 
 
 - [**Fake Wallets**](https://github.com/phrutis/LostWallets/tree/main/fake-wallets)</br>
