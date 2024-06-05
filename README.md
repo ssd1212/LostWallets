@@ -69,13 +69,14 @@ Find your Agent ID and Post in [**Telegram Group**](https://t.me/found_wallets) 
 - [**Founds wallets**](https://github.com/phrutis/LostWallets/tree/main/Found_wallets)
 
 ### Partner addresses 25%
-1️⃣ - 1NEFQpE4qETrAtzzRD8vLGs8FRZmUsV6FF</br>
-2️⃣ - bc1qphhedzu5jg7emtw09akwzzdh03mqaytett9zlz</br>
-3️⃣ - 1NoName1LLKRfLmoh9jawLWrf6t185bC7v</br>
-4️⃣ - bc1q5k000jhfklq8k82lpf8fz9cwffj4murvt7kxpm</br>
-5️⃣ - bc1qgdgr02whvzkzqcqhpstqepq8sjcc4ljgyfnka9</br>
-6️⃣ -</br>
-7️⃣ -</br>
+1️⃣ - 1NEFQpE4qETrAtzzRD8vLGs8FRZmUsV6FF (02.03.2022)</br>
+2️⃣ - bc1qphhedzu5jg7emtw09akwzzdh03mqaytett9zlz (26.03.2022)</br>
+3️⃣ - 1NoName1LLKRfLmoh9jawLWrf6t185bC7v (31.03.2022)</br>
+4️⃣ - bc1q5k000jhfklq8k82lpf8fz9cwffj4murvt7kxpm (11.04.2022)</br>
+5️⃣ - bc1qgdgr02whvzkzqcqhpstqepq8sjcc4ljgyfnka9 (20.04.2022)</br>
+6️⃣ - bc1q7rkc2ul0p033rlp32jauvuq74kmvxvlnjdegxe (29.05.2024)</br>
+7️⃣ - bc1qvpmhsrr4m8k2tu35am9lj3u5hvq7penp6un52p (04.06.2024)</br>
+8️⃣ -
 
 |   |  Wallet name    | Address   | Your reward  |  | Partner | Update |
 |:--|:----------------|:----------|:-------------|:-|:--------|:-------|
