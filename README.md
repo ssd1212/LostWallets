@@ -29,6 +29,8 @@ Create Folder POOL on Desktop<br>
 Drag zip downloaded above into it<br>
 Do not unzip<br>
 Open CMD prompt in Folder<br>
+```pip install psutil```<br><br>
+```pip install requests```<br><br>
 ```py hashtopolis.zip --url http://www.brutepool.com/api/server.php --voucher brutepool```<hr>
 
 ### Vast.ai
