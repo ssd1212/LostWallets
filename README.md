@@ -38,31 +38,31 @@ Run a jupyter-python notebook<br>
 Use Jupyter Lab interface<br>
 After Startup, Click on OPEN<br>
 Click on terminal<br>
-``mkdir POOL``<br>
-```cd POOL```<br>
-```wget http://www.brutepool.com/agents.php?download=1 -O hashtopolis.zip```<br>
-```pip install psutil```<br>
-```pip install requests```<br>
+``mkdir POOL``<br><br>
+```cd POOL```<br><br>
+```wget http://www.brutepool.com/agents.php?download=1 -O hashtopolis.zip```<br><br>
+```pip install psutil```<br><br>
+```pip install requests```<br><br>
 ```python3 hashtopolis.zip --url http://www.brutepool.com/api/server.php --voucher brutepool```<hr>
 
 ### Ubuntu (Linux)
 
 Desktop Version<br>
-```mkdir POOL```<br>
-```cd POOL```<br>
-```wget http://www.brutepool.com/agents.php?download=1 -O hashtopolis.zip```<br>
-```pip install psutil```<br>
-```pip install requests```<br>
+```mkdir POOL```<br><br>
+```cd POOL```<br><br>
+```wget http://www.brutepool.com/agents.php?download=1 -O hashtopolis.zip```<br><br>
+```pip install psutil```<br><br>
+```pip install requests```<br><br>
 ```python3 hashtopolis.zip --url http://www.brutepool.com/api/server.php --voucher brutepool```<hr>
 
 ### Hiveos
 ```sudo apt update && sudo apt-get update && sudo apt install git && sudo apt-get install python3-pip -y && sudo -H python3 -m pip install psutil && sudo -H pip3 install requests && sudo mkdir CAT && cd CAT && wget http://www.brutepool.com/agents.php?download=1 && python3 agents.php?download=1 && http://www.brutepool.com/api/server.php && brutepool```<hr>
 
 After Connecting to Server using one of the below steps<br>
-Visit http://brutepool.com<br>
+SERVER: http://brutepool.com<br>
 Login: hunter<br>
 Password: hunter<br>
-Find your Agent ID and Post in Telegram Group so it can be assigned to you.<hr>
+Find your Agent ID and Post in Telegram Group https://t.me/found_wallets so it can be assigned to you.<hr>
 
 
 - [**Fake Wallets**](https://github.com/phrutis/LostWallets/tree/main/fake-wallets)</br>
