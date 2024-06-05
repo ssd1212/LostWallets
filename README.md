@@ -19,7 +19,7 @@ Run: ```hashcat.exe -m 11300 -a 1 hashes.txt WORDLIST.txt WORDLIST2.txt -D 2 -w 
 Run: ```hashcat.exe -m 11300 -a 3 --increment --increment-min=4 --increment-max=8 hashes.txt ?a?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```</br>
 Use your password search prefixes by mask or [dictionaries](https://www.weakpass.com/wordlist)</br>
 
-If you manage to find the password, write to me in telegram ```phrutis```<br>
+If you manage to find the password, write to me in telegram ```phrutis```<hr>
 
 ## Search in the pool
 ### Windows
@@ -62,7 +62,7 @@ After Connecting to Server using one of the below steps<br>
 SERVER: http://brutepool.com<br>
 Login: hunter<br>
 Password: hunter<br>
-Find your Agent ID and Post in Telegram Group https://t.me/found_wallets so it can be assigned to you.<hr>
+Find your Agent ID and Post in [**Telegram Group**](https://t.me/found_wallets) so it can be assigned to you.<hr>
 
 - [**FAQ**](https://github.com/phrutis/LostWallets/edit/main/README.md#frequently-asked-questions)
 - [**Fake wallets**](https://github.com/phrutis/LostWallets/tree/main/fake-wallets)</br>
