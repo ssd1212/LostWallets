@@ -114,14 +114,11 @@ Hashtopolis Server version: 0.12.0 ()</br>
 📢 Write your agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
  :white_check_mark: **Your agent will be assigned a nickname
 
-Continue after stop:</br>
-```cd C:\Users\User\Downloads\CAT```</br>
-
-```py .\hashtopolis.zip```
+```python3 hashtopolis.zip```
 
 
 ## Hiveos
-
+```
 sudo apt update</br>
 sudo apt-get update</br>
 sudo apt install git</br>
@@ -135,12 +132,12 @@ sudo mkdir CAT</br>
 cd CAT</br>
 sudo aria2c http://brutepool.com/agents.php?download=1
 
-```python3 hashtopolis.zip --url http://brutepool.com/api/server.php --voucher brutepool```</br>
+python3 hashtopolis.zip --url http://brutepool.com/api/server.php --voucher brutepool</br>
 Successfully registered!</br>
 Collecting agent data...</br>
 Login successful!</br>
 Hashtopolis Server version: 0.12.0 ()</br>
-...
+```
 
 :warning: After connecting, find your agent at the end of the [**list of agents**](http://brutepool.com/agents.php)</br>
 📢 Write your agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
@@ -183,7 +180,10 @@ Desktop Version<br>
 ```python3 hashtopolis.zip --url http://www.brutepool.com/api/server.php --voucher brutepool```<hr>
 
 ### Hiveos
-```sudo apt update && sudo apt-get update && sudo apt install git && sudo apt-get install python3-pip -y && sudo -H python3 -m pip install psutil && sudo -H pip3 install requests && sudo mkdir CAT && cd CAT && wget http://www.brutepool.com/agents.php?download=1 && python3 agents.php?download=1 && http://www.brutepool.com/api/server.php && brutepool```<hr>
+```
+sudo apt update && sudo apt-get update && sudo apt install git && sudo apt-get install python3-pip -y && sudo -H python3 -m pip install psutil && sudo -H pip3 install requests && sudo mkdir CAT && cd CAT && wget http://www.brutepool.com/agents.php?download=1 && python3 agents.php?download=1 && http://www.brutepool.com/api/server.php && brutepool
+```
+<hr>
 
 After Connecting to Server using one of the below steps<br>
 SERVER: http://brutepool.com<br>
