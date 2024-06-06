@@ -76,7 +76,7 @@ Find your Agent ID and Post in [**Telegram Group**](https://t.me/found_wallets) 
 4️⃣ - bc1q5k000jhfklq8k82lpf8fz9cwffj4murvt7kxpm (11.04.2022)</br>
 5️⃣ - bc1qgdgr02whvzkzqcqhpstqepq8sjcc4ljgyfnka9 (20.04.2022)</br>
 6️⃣ - bc1q7rkc2ul0p033rlp32jauvuq74kmvxvlnjdegxe (29.05.2024)</br>
-7️⃣ - bc1qvpmhsrr4m8k2tu35am9lj3u5hvq7penp6un52p (04.06.2024)</br>
+7️⃣ -</br>
 8️⃣ -
 
 |   |  Wallet name    | Address   | Your reward  |  | Partner | Update |
