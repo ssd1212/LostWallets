@@ -25,7 +25,7 @@ Or you can take part in a collective search<hr>
 If you have a GPU and are willing to search 24/7. If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br>
 Join telegram group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)
 
-Server hashtopolis [brutepool.com](http://brutepool.com)</br>
+Server: [brutepool.com](http://brutepool.com)</br>
 Login: ```hunter```</br>
 Password: ```hunter```</br>
 
@@ -40,8 +40,8 @@ cd htpclient
 python3 hashtopolis.zip --url http://brutepool.com/api/server.php --voucher brutepool
 ```
 :warning: After connecting, find your agent at the end of the [**list of agents**](http://brutepool.com/agents.php)</br>
-📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
- :white_check_mark: **Your agent will be assigned a nickname.
+📢 Write your agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
+:white_check_mark: **Your agent will be assigned a nickname.
 
 ## Windows 
 Download [Python](https://www.python.org/downloads/)</br>
@@ -72,8 +72,8 @@ Hashtopolis Server version: 0.12.0 ()</br>
 ...
 
 :warning: After connecting, find your agent at the end of the [**list of agents**](http://brutepool.com/agents.php)</br>
-📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
- :white_check_mark: **Your agent will be assigned a nickname
+📢 Write your agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
+:white_check_mark: **Your agent will be assigned a nickname
 
 
 Continue after stop:</br>
@@ -111,7 +111,7 @@ Hashtopolis Server version: 0.12.0 ()</br>
 ...
 
 :warning: After connecting, find your agent at the end of the [**list of agents**](http://brutepool.com/agents.php)</br>
-📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
+📢 Write your agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
  :white_check_mark: **Your agent will be assigned a nickname
 
 Continue after stop:</br>
@@ -143,7 +143,7 @@ Hashtopolis Server version: 0.12.0 ()</br>
 ...
 
 :warning: After connecting, find your agent at the end of the [**list of agents**](http://brutepool.com/agents.php)</br>
-📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
+📢 Write your agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
 :white_check_mark: **Your agent will be assigned a nickname
 
 
