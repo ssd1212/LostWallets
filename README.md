@@ -68,7 +68,6 @@ Find your Agent ID and Post in [**Telegram Group**](https://t.me/found_wallets) 
 
 - [**FAQ**](https://github.com/phrutis/LostWallets/edit/main/README.md#frequently-asked-questions)
 - [**Fake wallets**](https://github.com/phrutis/LostWallets/tree/main/fake-wallets)</br>
-- [**Founds wallets**](https://github.com/phrutis/LostWallets/tree/main/Found_wallets)
 
 ### Partner addresses 25%
 1️⃣ - 1NEFQpE4qETrAtzzRD8vLGs8FRZmUsV6FF (02.03.2022)</br>
