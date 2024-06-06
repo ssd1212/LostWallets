@@ -1,4 +1,3 @@
-# LostWallets - BrutePool.com 
 # LostWallets
 
 ![wallet.dat](https://user-images.githubusercontent.com/82582647/190867530-275ae6ad-eb78-43f1-9600-f5628739ed05.png)</br>
@@ -23,57 +22,10 @@ The commission depends on many factors such as number, iterations, balance, pass
 You can search by [**YOURSELF**](https://github.com/phrutis/LostWallets/blob/main/Others/alonene.md) if you find the password you will get 50%</br>
 Or you can take part in a collective search<hr>
 
-# Collective search
-![diagram](https://user-images.githubusercontent.com/82582647/192157161-e88a1475-b909-4b58-beb4-c9214052cbfd.png)
-
-## How it works:
-```mermaid
-flowchart LR
-
-A[МАКСИМ-114] -->|Voucher| T(Connecting)
-F[It's me-118] -->|Voucher| H(Connecting)
-G[ie696-125] -->|Voucher| U(Connecting)
-J[cpto_node-127] -->|Voucher| M(Connecting)
-AA[Ervings-082] -->|Voucher| TT(Connecting)
-FF[RY-214] -->|Voucher| HH(Connecting)
-GG[K-Fed-219] -->|Voucher| UU(Connecting)
-JJ[First Last-029] -->|Voucher| MM(Connecting)
-AAA[N/A-105] -->|Voucher| TTT(Connecting)
-FFF[Leonid-231] -->|Voucher| HHH(Connecting)
-T[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
-H[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
-U[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
-M[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
-TT[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
-HH[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
-UU[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
-MM[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
-TTT[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
-HHH[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
-C -->|FOUND| D(Balance 12600 BTC)
-D -->|70%| Y[8820 BTC Hunters:]
-D -->|25%| E[3150 BTC Partner wallet.dat]
-D -->|5%| X[630 BTC Organizers]
-Y -->|27,3%| W[2407,8 BTC МАКСИМ-114]
-Y -->|22,5%| Z[1984,5 BTC It's me-118]
-Y -->|12,2%| P[1076,04 BTC ie696-125]
-Y -->|11,9%| S[1049,5 BTC cpto_node-127]
-Y -->|6,7%| WW[590,9 BTC Ervings-082]
-Y -->|4,9%| ZZ[432,1 BTC RY-214]
-Y -->|4,6%| PP[405,7 BTC K-Fed-219]
-Y -->|3%| SS[264,6 BTC First Last-029]
-Y -->|2,8%| WWW[246,9 BTC N/A-105]
-Y -->|2,6%| ZZZ[229,3 BTC Leonid-231]
-
-```
 If you have a GPU and are willing to search 24/7. If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br>
 Join telegram group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)
 
-Hunters [**Table and diagram**](https://docs.google.com/spreadsheets/d/1SLxe01AsnJYXwecu0CcCTnAku8q_2dhnWWmuXDhr3rI/edit#gid=821323231)
-
 Server hashtopolis [brutepool.com](http://brutepool.com)</br>
-
-Work task and statistics:</br>
 Login: ```hunter```</br>
 Password: ```hunter```</br>
 
@@ -85,7 +37,7 @@ Step by Step [Instruction](https://github.com/phrutis/LostWallets/blob/main/Othe
 xasser/hashtopolis_agent_vastai:latest
 
 cd htpclient
-python3 hashtopolis.zip --url http://brutepool.com/api/server.php --voucher start
+python3 hashtopolis.zip --url http://brutepool.com/api/server.php --voucher brutepool
 ```
 :warning: After connecting, find your agent at the end of the [**list of agents**](http://brutepool.com/agents.php)</br>
 📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
@@ -119,9 +71,9 @@ Login successful!</br>
 Hashtopolis Server version: 0.12.0 ()</br>
 ...
 
-:warning: After connecting, find your agent at the end of the [**list of agents**](http://walletdatuss.work/agents.php)</br>
+:warning: After connecting, find your agent at the end of the [**list of agents**](http://brutepool.com/agents.php)</br>
 📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
- :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1SLxe01AsnJYXwecu0CcCTnAku8q_2dhnWWmuXDhr3rI/edit#gid=821323231)** 
+ :white_check_mark: **Your agent will be assigned a nickname
 
 
 Continue after stop:</br>
@@ -238,8 +190,6 @@ SERVER: http://brutepool.com<br>
 Login: hunter<br>
 Password: hunter<br>
 Find your Agent ID and Post in [**Telegram Group**](https://t.me/found_wallets) so it can be assigned to you.<hr>
-
-
 
 
 Quick installation:
