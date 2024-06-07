@@ -4,29 +4,29 @@
 Here are the files that did not pass the test - fakes
 ### Table of fake wallet.dat</br>
 
-|   |  Wallet name    | Address     |  | Password|
-|:--|:----------------|:------------|:-------|:--------|
-| 1 | 11.26827053.dat | [1NibfhHfgA857dtG6pB25Y5hDcxpDo2J47](https://www.blockchain.com/btc/address/1NibfhHfgA857dtG6pB25Y5hDcxpDo2J47) | fake | 12aVP18cd5XsbcGQy8u6eywQ6UuA6Q319s |
-| 2 | 70.01000000.dat | [17w8w8ZHdqkSYFkhAMfHJaEqCHgHm9egKv](https://www.blockchain.com/btc/address/17w8w8ZHdqkSYFkhAMfHJaEqCHgHm9egKv) | fake | 12aVP18cd5XsbcGQy8u6eywQ6UuA6Q319s |
-| 3 | 25.00011094.dat | [12BycRrxPivnhnwfD5qfKaE7ccAc1qhrCb](https://www.blockchain.com/btc/address/12BycRrxPivnhnwfD5qfKaE7ccAc1qhrCb) | fake |  12aVP18cd5XsbcGQy8u6eywQ6UuA6Q319s |
-| 4 | 5.03448336.dat | [1JWXHwtBuVGDDjrVDQNFaBHhw7AhuuPeV9](https://www.blockchain.com/btc/address/1JWXHwtBuVGDDjrVDQNFaBHhw7AhuuPeV9) | fake |  12aVP18cd5XsbcGQy8u6eywQ6UuA6Q319s |
-| 5 | 28.12063817.dat | [1ELCrM2FMXePtsGLRbcqAdhj61EUGmUtK9](https://www.blockchain.com/btc/address/1ELCrM2FMXePtsGLRbcqAdhj61EUGmUtK9) | fake | nelikevin.vunderg@yahoo.comneli |
-| 6 | 14.09013974.dat | [1GDcVTrZNhVFt7pEnwvHfepoth6mqHVVvq](https://www.blockchain.com/btc/address/1GDcVTrZNhVFt7pEnwvHfepoth6mqHVVvq) | fake | :lock: |
-| 7 | 11.26828169.dat | [1NibfhHfgA857dtG6pB25Y5hDcxpDo2J47](https://www.blockchain.com/btc/address/1NibfhHfgA857dtG6pB25Y5hDcxpDo2J47)  | fake | :lock: |
-| 8 | 51.99952188.dat | [12DE6ff6gxLA1JfV7eaGG4ehUUUpZMo8Bo](https://www.blockchain.com/btc/address/12Bki9QAzEwBiuZDRrvPFyc736wPZKMRQt) | fake | :lock: |
-| 9 | 358.47919037.dat | [1Jkn9wg1WbJdASNBPtQqdmm7wtrcSiATbf](https://www.blockchain.com/btc/address/1Jkn9wg1WbJdASNBPtQqdmm7wtrcSiATbf) | fake | Hunnibear9 |
+![error](https |//user-images.githubusercontent.com/82582647/172431915-11fbdd97-994a-4d97-860d-636d33e6bfb9.png)</br></br>
+**Wallets are checked in detail, but fakes also occur.**</br>
+Here are the files that did not pass the test - fakes
+### Table of fake wallet.dat</br>
 
 
 
+|  |  Found PASSWORD wallet.dat list | hex |
+|-:|:--|:----------------|
+| 1 | 1 | $bitcoin$64$b69437abc2971c5b0d74bbc9d48e5d42cbaa51d25e1b4e0cf34d5f7c5ec64c8d$16$8bbb805fa36b918e$223645$2$00$2$00 |
+| 2 | 123 | $bitcoin$64$95a6aff6b9e27aac8d8ea9435a6ed277b37e53e5ac08472b614aea636f769823$16$66f53729a6381837$25000$2$00$2$00 |
+| 3 | Bit | $bitcoin$64$3036e886ee3fdfcb50ea308b856f71a35580dc6d75304f348bead4b54dba5e18$16$f751cb6ae4970bb1$444670$2$00$2$00 |
+| 4 | 123 | $bitcoin$64$a52322f90ea4a89c0158e302dad35833e67758090e94cd6c338c8af8103ac34d$16$a330d7d65767e173$200445$2$00$2$00 |
+| 5 | 1111 | $bitcoin$64$e7372ab5bb3f08bdaad8aaeb3d9cb5c2fc5a856e451384dde630296cfd69d97b$16$07314ab2d2fd1ca1$229531$2$00$2$00 |
+| 6 | 1111 | $bitcoin$64$b25c87e61aceb149ee89d9fc9547c5c7440889f77af80fd80fddea11ec02d91b$16$a1c5b444fcfd5c1b$248778$2$00$2$00 |
+| 7 | e15pf3 | $bitcoin$64$697c5a59bc4832a6af81fc00c2ff3567d6efbe137c19e4f36719c231847bf0d0$16$64c151befcb396a6$50442$2$00$2$00 |
+| 8 | kingsman | $bitcoin$64$6f1326e98250df170c537c49ec3932653039ce4bbdd8d60ea46c7b7e135cf2f5$16$15863bcede2eb336$53065$2$00$2$00 |
+| 9 | Hunnibear9 | $bitcoin$64$a50dd3829378f5ee40bf6a6b0a47b0c3ae0a83ccf35ca487742765623a2df714$16$2236f42204c91a50$129704$2$00$2$00 |
+| 10 | mypassword | $bitcoin$64$8a25e3bab4c6525c642efe6c44963e9c8ff1d91dc905b616878171b46819e79b$16$af3536e4ef7cd305$102066$2$00$2$00 |
+| 11 | Abcde12345 | $bitcoin$64$cadfb824234108e4573c6bba8211abfc1f252303592ce01f871cb6e4d9f28785$16$3e03dd6f8ba80882$114152$2$00$2$00 |
+| 12 | chpoopoo77- | $bitcoin$64$b3842e23f10ac6c033b834965468b6f5a4bd45278ccd8d593ba13e0e5666f62b$16$405ada708a64f160$131944$2$00$2$00 |
+| 13 | Google123@@ | $bitcoin$64$b05b82a6c028b3e45f868a09efbb3a4c8cc60522e288da2212a4932a09a0c617$16$84ec1632619ba3e5$365080$2$00$2$00 |
+| 14 | 31247590635abe | $bitcoin$64$138035514cf61211bc875a93e48eaddc1dc966f070d784b31fd43220b9b76f67$16$7a6deff424325caa$67289$2$00$2$00 |
+| 15 | nelikevin.vunderg@yahoo.comneli | $bitcoin$64$bcf883ce2bf5e8e38df49ceae92c946d4cc78614131d89365e11078423350bf7$16$8bbb805fa36b918e$63241$2$00$2$00 |
+| 16 | 12aVP18cd5XsbcGQy8u6eywQ6UuA6Q319s | $bitcoin$64$6b45588e745d8490f2432c68533407e0f2040ff12debd840270f47543ad47c16$16$0af493ab2796f208$99974$2$00$2$00 |
 
-|    | :arrow_up: Wallet password hash by numbers from the table above :arrow_up: |
-|:---|:----------------------------------------------------------------------------------------|
-| 1 | $bitcoin$64$6b45588e745d8490f2432c68533407e0f2040ff12debd840270f47543ad47c16$16$0af493ab2796f208$99974$2$00$2$00 |
-| 2 | $bitcoin$64$6b45588e745d8490f2432c68533407e0f2040ff12debd840270f47543ad47c16$16$0af493ab2796f208$99974$2$00$2$00 |
-| 3 | $bitcoin$64$6b45588e745d8490f2432c68533407e0f2040ff12debd840270f47543ad47c16$16$0af493ab2796f208$99974$2$00$2$00 |
-| 4 | $bitcoin$64$6b45588e745d8490f2432c68533407e0f2040ff12debd840270f47543ad47c16$16$0af493ab2796f208$99974$2$00$2$00 |
-| 5 | $bitcoin$64$bcf883ce2bf5e8e38df49ceae92c946d4cc78614131d89365e11078423350bf7$16$8bbb805fa36b918e$63241$2$00$2$00 |
-| 6 | $bitcoin$64$f83d2783f238d5fde0e082e20686ff85cb92bb0737da214e2e39fd61b828bf6c$16$adfbb9cfa83e9cf6$135318$2$00$2$00 |
-| 7 | $bitcoin$64$f02e9fa9c5d3379e4cd8ee5e5e2d8683d323dbd644a910cb61f0833a7a58cacb$16$6df848e467dd34c5$142367$2$00$2$00 |
-| 8 | $bitcoin$64$49aa9a07b86a9ba3f29f847b7c4d58e581137ebea7e50414c142c05dd942ac28$16$ea58017c72d4a60f$19929$2$00$2$00 |
-| 9 | $bitcoin$64$a50dd3829378f5ee40bf6a6b0a47b0c3ae0a83ccf35ca487742765623a2df714$16$2236f42204c91a50$129704$2$00$2$00 |
