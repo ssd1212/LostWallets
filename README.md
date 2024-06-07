@@ -807,6 +807,24 @@ You do not need to select the correct masks, rules, hashes and more.</br>
 
 ## Frequently asked Questions
 
+**I have wallet.dat not from a table. How to become a partner and get 25% of the find.**
+
+Write a personal message in telegram ```phrutis``` in telegram, send the files and your BTC address.<br>
+If you have logs and tips, please send them too.<br>
+After checking the files, the hishi will be added to the table.<br> 
+You will be assigned a partner number with your address.<br>
+If found, a payment of 25% of the balance will go to the specified address.<br>
+<hr>
+
+**You have my exclusive wallets in the table. These are my.** <br>
+**Who sent them to you?**
+
+Apparently someone sent them before you.<br>
+Partners are anonymous, the indicator is only the address.<br>
+The correspondence history is not stored.<br>
+If you have files not from the table, do not wait for someone else to send them.<br>
+<hr>
+
 **I have frozen the process on the benchmark. What to do?**
 
 You need to download and install the old version of nvidia driver:</br>
@@ -816,9 +834,10 @@ For Windows x64 [456.38](https://ru.download.nvidia.com/Windows/456.38/456.38-de
 **I am a miner and I want to search anonymously!**
 
 Connect your rigs to the server.</br>
-Write in telegram ```phrutis``` your empty BTC address and the numbers of your agents on the list.</br>
+Write a personal message in telegram ```phrutis``` your empty BTC address and the numbers of your agents on the list.<br>
 An anonymous nickname will be created with your BTC addresses.</br>
-If the password is found, your % will be paid to your address<hr>
+If the password is found, your % will be paid to your address<br>
+<hr>
 
 **What guarantees that I will be paid when the password is found?**
 
@@ -827,8 +846,16 @@ In a collective search, there is no way to guarantee that the participants are t
 If you know a way to guarantee it, let the group know about it and we'll discuss it.</br>
 I understand and appreciate the hunters who invest their money and GPU resources for our common victory.</br>
 In a collective search, it makes no logical sense to deceive the hunters.</br>
-There are many wallets, large sums, enough coins for everyone.<hr>
+There are many wallets, large sums, enough coins for everyone.<br>
+<hr>
 
+**When I connect it says** <br>
+**No Task...** <br>
+**No task...** <br>
+
+Your agent activation is required. This happens sometimes.<br>
+Write to [telegram group](https://t.me/+bi0ifA-TRYQxODQy) @phrutis and activate the agent.<br>
+<hr>
 
 **HiveOS Error during speed benchmark, return code: 137**</br>
 
