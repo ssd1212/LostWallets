@@ -189,7 +189,7 @@ After Connecting to Server using one of the below steps<br>
 SERVER: http://brutepool.com<br>
 Login: hunter<br>
 Password: hunter<br>
-Find your Agent ID and Post in [**Telegram Group**](https://t.me/found_wallets) so it can be assigned to you.<hr>
+Find your Agent ID and Post in https://t.me/+bi0ifA-TRYQxODQy so it can be assigned to you.<hr>
 
 
 Quick installation:
