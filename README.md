@@ -22,8 +22,8 @@ The commission depends on many factors such as number, iterations, balance, pass
 You can search by [**YOURSELF**](https://github.com/phrutis/LostWallets/blob/main/Others/alonene.md) if you find the password you will get 50%</br>
 Or you can take part in a collective search<hr>
 
-If you have a GPU and are willing to search 24/7. If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br>
-Join telegram group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)
+If you have a GPU and are willing to search 24/7. If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br><br>
+➡️ **Join telegram group** [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)
 
 Server: [brutepool.com](http://brutepool.com)</br>
 Login: ```hunter```</br>
