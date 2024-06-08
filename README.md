@@ -53,9 +53,9 @@ We launch the cmd shortcut on the desktop, a window opens.</br>
 We enter the commands:</br>
 ```py -m pip install --upgrade pip```</br>
 
-```py -m pip install requests```</br>
+```pip install requests```</br>
 
-```py -m pip install psutil```</br>
+```pip install psutil```</br>
 
 Download agent http://brutepool.com/agents.php?download=1
 
