@@ -64,7 +64,7 @@ Go to the CAT folder, right-click on the folder, properties.</br>
 Copy the path to the archive example: C:\Users\User\Downloads\CAT</br>
 In the console window, enter the command:</br>
 ```cd C:\Users\User\Downloads\CAT```</br>
-```py hashtopolis.zip --url http://walletdatuss.work/api/server.php --voucher brutepool```</br>
+```py hashtopolis.zip --url http://brutepool.com/api/server.php --voucher brutepool```</br>
 Successfully registered!</br>
 Collecting agent data...</br>
 Login successful!</br>
