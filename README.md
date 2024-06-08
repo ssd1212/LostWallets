@@ -1075,9 +1075,9 @@ You do not need to select the correct masks, rules, hashes and more.</br>
 
 **I have wallet.dat not from a table. How to become a partner and get 25% of the find.**
 
-Write a personal message in telegram ```phrutis``` in telegram, send the files and your BTC address.<br>
+Write a personal message in telegram ```phrutis``` send the files and your BTC address.<br>
 If you have logs and tips, please send them too.<br>
-After checking the files, the hishi will be added to the table.<br> 
+After checking the files, the hashes will be added to the table.<br> 
 You will be assigned a partner number with your address.<br>
 If found, a payment of 25% of the balance will go to the specified address.<br>
 <hr>
