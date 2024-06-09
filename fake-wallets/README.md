@@ -4,13 +4,6 @@
 Here are the files that did not pass the test - fakes
 ### Table of fake wallet.dat</br>
 
-![error](https |//user-images.githubusercontent.com/82582647/172431915-11fbdd97-994a-4d97-860d-636d33e6bfb9.png)</br></br>
-**Wallets are checked in detail, but fakes also occur.**</br>
-Here are the files that did not pass the test - fakes
-### Table of fake wallet.dat</br>
-
-
-
 |  |  Found PASSWORD wallet.dat list | hex |
 |-:|:--|:----------------|
 | 1 | 1 | $bitcoin$64$b69437abc2971c5b0d74bbc9d48e5d42cbaa51d25e1b4e0cf34d5f7c5ec64c8d$16$8bbb805fa36b918e$223645$2$00$2$00 |
